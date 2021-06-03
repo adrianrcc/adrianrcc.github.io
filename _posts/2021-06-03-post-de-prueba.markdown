@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "post de prueba con Lorem Ipsum"
+title:  "Post de prueba con Lorem Ipsum"
 date:   2021-06-03 08:14:06 -0500
 categories: pruebas
 ---
